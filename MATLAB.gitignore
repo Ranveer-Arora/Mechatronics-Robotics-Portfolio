@@ -1,0 +1,17 @@
+# MATLAB temporary and auto-save files
+*.asv
+*.bak
+*.log
+
+# MATLAB workspace data files
+*.mat
+
+# Simulink model auto-saves and cache
+*.slxc
+slprj/
+codegen/
+simulink/cache/
+
+# Operating system files
+.DS_Store
+Thumbs.db
